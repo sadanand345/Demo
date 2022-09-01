@@ -2,4 +2,3 @@ This is the first file
 
 latest check  stash command git test local machien changes
 
-git revert command
